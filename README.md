@@ -7,9 +7,7 @@
 <a href="https://github.com/ethyaan/">
   <img align="left" alt="Ehsan's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/ethyaan/">
-  <img align="left" alt="Ehsan's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+
 <a href="https://www.youtube.com/@ethyaan">
   <img align="left" alt="Ehsan's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
@@ -26,7 +24,7 @@
   
   <br>
 
-- 👷 <samp><b>Senior Software Engineer @ BlueCloud</b>
+- 👷 <samp><b>Senior Software Engineer</b>
 - 👨‍🎓 <samp><b>Amazoon Web Services(AWS) Certified Developer – Associate</b>
 - 👨‍💻 <samp> BlockChain Dev & Decentralization fan
 - 💼 <samp>I’m looking for working with cool people, are you cool?
